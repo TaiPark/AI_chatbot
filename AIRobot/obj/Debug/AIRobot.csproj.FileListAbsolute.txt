@@ -1,0 +1,16 @@
+D:\AI\AIRobot\AIRobot\bin\Debug\AIRobot.exe.config
+D:\AI\AIRobot\AIRobot\bin\Debug\AIRobot.exe
+D:\AI\AIRobot\AIRobot\bin\Debug\AIRobot.pdb
+D:\AI\AIRobot\AIRobot\bin\Debug\CSkin.dll
+D:\AI\AIRobot\AIRobot\obj\Debug\AIRobot.csprojResolveAssemblyReference.cache
+D:\AI\AIRobot\AIRobot\obj\Debug\AIRobot.FrmMain.resources
+D:\AI\AIRobot\AIRobot\obj\Debug\AIRobot.Properties.Resources.resources
+D:\AI\AIRobot\AIRobot\obj\Debug\AIRobot.csproj.GenerateResource.cache
+D:\AI\AIRobot\AIRobot\obj\Debug\AIRobot.csproj.CoreCompileInputs.cache
+D:\AI\AIRobot\AIRobot\obj\Debug\AIRobot.csproj.CopyComplete
+D:\AI\AIRobot\AIRobot\obj\Debug\AIRobot.exe
+D:\AI\AIRobot\AIRobot\obj\Debug\AIRobot.pdb
+D:\AI\AIRobot\AIRobot\bin\Debug\Newtonsoft.Json.dll
+D:\AI\AIRobot\AIRobot\bin\Debug\Newtonsoft.Json.xml
+D:\AI\AIRobot\AIRobot\bin\Debug\AipSdk.dll
+D:\AI\AIRobot\AIRobot\obj\Debug\AIRobot.logIn.resources
